@@ -57,4 +57,4 @@ int main(int argc, char** argv) {
     cout << "¡Éxito! Panorama guardado como panorama_perfecto.jpg" << endl;
 
     return 0;
-}
+} 
